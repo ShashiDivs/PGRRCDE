@@ -1,0 +1,32 @@
+List of Python Programs
+
+
+1. Write a program to demonstrate different numbers data types in python
+
+2. Write a python program to design simple calculator using functions
+
+3. Write a python program to check whether a given number is Armstrong number or not
+
+4. Write a python program to generate prime numbers between different intervals
+
+5. Write a python program to find factorial of a number using recursion
+
+6. Write a python program to check whether a string is palindrome or not
+
+7. Write a python program to count the number of characters present in a word
+
+8. Write a python program to create, append and remove list
+
+9. Write a program to demonstrate working with tuples in python
+
+10. Write a program to demonstrate dictionaries in python
+
+11. Write a program to print each line of a file in reverse order
+
+12. Write a program to implement the inheritance
+
+13. Write a python program to demonstrate basic array characteristics
+
+14. Write a python program to demonstrate array creation techniques
+
+15. Write a python program to demonstrate indexing in numpy
